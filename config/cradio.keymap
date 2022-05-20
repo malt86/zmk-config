@@ -63,9 +63,6 @@
         };
         
 
-        
-    };
-
 / {
     behaviors {
         hm: homerow_mods {
