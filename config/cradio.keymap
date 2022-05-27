@@ -88,6 +88,7 @@
        		default_layer {
 		bindings = <
 		&kp Q &kp W &kp E &kp R &kp T 						&kp Y &kp U  &kp I    &kp O   &kp P 
+		// position 0     pos 1             pos 2             pos 3             pos 4    pos 5    pos 6    pos 7    pos 8    pos 9    pos 10
 		&lh_pht LGUI A &lh_pht LALT S &lh_pht LCTRL D &lh_pht LSFT F &kp G 	&kp H &kp J &kp K &kp L &kp QUOT
 		&mt LSFT Z &kp X &kp C &kp V &kp B				        &kp N &kp M  &kp CMMA &kp DOT &mt LSFT RET
           				&mo 1 &kp ENTER  				&kp SPC &mo 2 
