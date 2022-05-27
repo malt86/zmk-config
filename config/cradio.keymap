@@ -12,7 +12,6 @@
 &mt {
   //  flavor = "tap-preferred";
   // tapping_term_ms = <300>;
-};
 
 / { 
 
@@ -77,11 +76,8 @@ behaviors {
             flavor = "tap-preferred";
             bindings = <&kp>, <&kp>;
         };
-    };
-
-            >;
         };
-
+        };
         
     };
 
