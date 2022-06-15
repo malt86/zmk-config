@@ -99,7 +99,7 @@
 		&kp NUM_1  &kp PG_DN    &kp UP    &kp PG_UP    &kp NUM_5		&kp PLUS &kp NUM_7 &kp NUM_8 &kp NUM_9 &kp FSLH 
 		&kp TAB    &kp LEFT    &kp DOWN      &kp RIGHT     &kp HASH 		&kp MINUS &kp NUM_4  &kp NUM_5 &kp NUM_6  &kp BSLH 
 		&kp LSFT    &kp TILDE 	&kp NON_US_BSLH &kp NON_US_HASH  &kp TILDE2 	&kp EQUAL &kp NUM_1 &kp NUM_2 &kp NUM_3  &mt LSFT SCLN 
-					    &mo 1  &kp LGUI  					&kp NUM_0 &kp LCTL 
+					    &mt RGUI  &mo 1  					&kp NUM_0 &mo 3 
 		>;
 		};
 		
@@ -108,7 +108,7 @@
 		&kp BANG  &kp ATSN &kp HASH  &kp DLLR  &kp PRCT    			&kp CAPS  &kp F7 &kp F8 &kp F9 &kp F12 
 		&kp HASH  &kp QMARK  &kp FSLH  &kp COLN  &kp SCLN 			&kp MINUS &kp F4  &kp F5  &kp F6   &kp DQT
 		&kp LSFT  &kp KPLS &kp LBKT &kp RBKT   &kp BSLH    			&kp UNDER &kp F1 &kp F2 &kp F3  &mt LSFT QMARK
-					  &mo 3 &kp LCTL  					&kp SPC  &mo 2 
+					  &kp LCTL &mo 3  					&kp SPC  &mo 2 
 		>;
 		};	
 		
